@@ -1,0 +1,3 @@
+[submodule "ezplanner-api-deploy"]
+	path = ezplanner-api-deploy
+	url = git@github.com:EZPlanner/ezplanner-api-deploy.git
