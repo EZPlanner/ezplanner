@@ -7,3 +7,6 @@
 [submodule "ezplanner-api-gateway"]
 	path = ezplanner-api-gateway
 	url = git@github.com:EZPlanner/ezplanner-api-gateway.git
+[submodule "ezplanner-planner-service"]
+	path = ezplanner-planner-service
+	url = git@github.com:EZPlanner/ezplanner-planner-service.git
