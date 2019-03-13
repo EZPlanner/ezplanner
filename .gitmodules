@@ -10,3 +10,6 @@
 [submodule "ezplanner-planner-service"]
 	path = ezplanner-planner-service
 	url = git@github.com:EZPlanner/ezplanner-planner-service.git
+[submodule "ezplanner-pdf-parser-service"]
+	path = ezplanner-pdf-parser-service
+	url = git@github.com:EZPlanner/ezplanner-pdf-parser-service.git
