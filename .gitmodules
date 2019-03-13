@@ -4,3 +4,6 @@
 [submodule "ezplanner-react-client"]
 	path = ezplanner-react-client
 	url = git@github.com:EZPlanner/ezplanner-react-client.git
+[submodule "ezplanner-api-gateway"]
+	path = ezplanner-api-gateway
+	url = git@github.com:EZPlanner/ezplanner-api-gateway.git
